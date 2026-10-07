@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+    font-family: Arial, sans-serif;
+    background-color: #8a75d2;
+}
+h1{
+    color: #de67bc;
+}
+#intro{
+    color: #ee550d;
+}
+.note{
+    color:#0485c5;
+    background-color:#aecabd;
+}
