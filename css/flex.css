@@ -2,15 +2,15 @@
     display: flex;
     background-color: aqua;
     flex-wrap: wrap;
-    flex-direction: column;
-    height:100vh;
+    flex-direction: row;
+    width:240px;
+    justify-content:space-around;
 }
 .container div{
     background-color: chartreuse;
     margin:10px;
     padding:20px;
-    width:20px;
-    height:20px;
+    align-items: first baseline;
     font: size 24px;
     
     
